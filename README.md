@@ -1,1 +1,5 @@
-### JSON PARSER README !!!
+### Assessment..
+
+#### Execution
+
+`node app.js`
